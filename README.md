@@ -33,3 +33,7 @@ The importance of privacy, efficiency, and accuracy in Distributed Deep Learning
 # Summary:
 
 This repository explores Collaborative/Distributed Deep Learning and privacy preservation techniques in the context of Deep Learning research. It discusses various collaborative approaches and associated privacy concerns, along with reviewing common privacy preservation techniques such as SMC, DP, and HE. The aim is to provide insights into addressing privacy concerns while leveraging collaborative Deep Learning for improved model accuracy.
+
+# References:
+https://www.sciencedirect.com/science/article/pii/S2214212621001630
+https://www.researchgate.net/publication/346288300_Privacy-Preserving_Deep_Learning_on_Machine_Learning_as_a_Service-a_Comprehensive_Survey
