@@ -1,4 +1,4 @@
-# CECS---574---Privacy-preservation-in-distributed-machine-learning-or-deep-learning
+# CECS 574-Privacy-preservation-in-distributed-machine-learning-or-deep-learning
 This repository aims to distill key insights from a research paper exploring Distributed or Collaborative Deep Learning, where multiple participants contribute to model training from varied datasets while addressing significant privacy concerns. We categorize this paradigm into direct, indirect, and peer-to-peer approaches, examining associated privacy issues. Surveying cryptographic algorithms and techniques for privacy preservation, particularly focusing on Homomorphic Encryption, our repository highlights fundamental theories and suggests future directions, emphasizing the importance of mitigating privacy concerns in collaborative deep learning.
 
 # Introduction:
