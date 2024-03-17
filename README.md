@@ -36,6 +36,6 @@ This repository explores Collaborative/Distributed Deep Learning and privacy pre
 
 # References:
 https://www.sciencedirect.com/science/article/pii/S2214212621001630
---
-https://www.researchgate.net/publication/346288300_Privacy-Preserving_Deep_Learning_on_Machine_Learning_as_a_Service-a_Comprehensive_Survey
---
+*** 
+https://www.researchgate.net/publication/346288300_Privacy-Preserving_Deep_Learning_on_Machine_Learning_as_a_Service-a_Comprehensive_Survey 
+
